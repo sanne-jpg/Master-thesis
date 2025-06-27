@@ -1,0 +1,238 @@
+Begin Time - ss.msec	End Time - ss.msec	Speech	Speech AMR	Gesture - Label	Gesture AMR
+1.08	1.18	all			
+1.22	1.4	    right			
+1.44	1.56	put			
+1.62	1.74	a			
+1.78	2.02	block			
+2.32	5.0	    down			
+5.28	7.04	um			
+7.08	7.2	    put			
+7.3	    7.4	    a			
+7.44	7.74	block			
+8.0	    8.34	One			
+8.4	    8.66	block			
+8.76	9.34	apart			
+9.4	    10.36	behind			
+10.42	10.54	So			
+10.6	11.2	Towards			
+11.2	11.8	you			
+12.8	14.0	Um			
+14.38	14.68	Put			
+14.68	14.98	two			
+15.1	16.72	blocks			
+16.8	17.02	kind			
+17.14	17.54	of			
+17.62	17.68	a			
+17.72	18.4	like			
+18.78	19.02	about	
+19.08	19.16	a			
+19.22	19.36	third			
+19.42	19.5	of			
+19.6	19.66	a			
+19.7	19.92	block			
+19.98	20.06	A			
+20.1	20.38	Part			
+20.46	20.58	So			
+20.62	20.8	more			
+20.86	21.12	close			
+21.2	21.32	in			
+21.34	21.46	than			
+21.56	24.98	that			
+25.04	25.14	all			
+25.16	25.38	right			
+25.44	25.8	then			
+25.84	26.62	stick			
+26.66	26.82	no			
+26.84	26.96	that			
+26.98	27.14	doesn't			
+27.18	27.28	look			
+27.32	27.4	like			
+27.46	27.52	It’s			
+27.58	27.68	Going			
+27.7	27.78	to			
+27.82	29.34	work			
+29.44	29.62	Um			
+29.66	29.72	i			
+29.76	29.86	think			
+29.9	30.18	everything			
+30.26	30.4	needs			
+30.42	30.46	to			
+30.5	30.58	be			
+30.62	30.96	slightly			
+31.02	31.36	closer			
+31.4	33.38	together			
+33.48	33.74	Yeah			
+33.8	34.16	now			
+34.18	34.38	stick			
+34.44	34.64	A			
+34.76	35.28	block			
+35.42	36.26	on			
+36.34	36.6	the			
+36.64	37.04	front			
+37.18	37.68	one			
+37.68	38.18	And			
+38.22	38.36	the			
+38.52	38.8	one			
+38.84	39.02	to			
+39.08	39.54	your			
+39.6	41.7	left			
+41.78	41.94	ah			
+41.98	42.26	now			
+42.32	42.56	Uh			
+42.58	42.72	move			
+42.78	42.88	It			
+42.9	43.02	so			
+43.06	43.26	it's			
+43.38	43.62	on			
+43.68	43.82	the			
+43.86	44.38	front			
+44.42	44.7	Front			
+44.84	45.28	one			
+45.38	45.52	and			
+45.6	45.66	the			
+45.82	45.9	one			
+45.94	46.08	you			
+46.1	46.22	just			
+46.26	46.36	put			
+46.44	46.52	it			
+46.62	47.82	on			
+47.94	48.1	and			
+48.12	48.3	turn			
+48.38	48.48	it			
+48.52	48.64	so			
+48.7	48.86	it's			
+48.92	50.42	parallel			
+50.48	51.76	yes			
+51.84	51.9	and			
+51.96	52.1	do			
+52.12	52.2	the			
+52.28	52.56	exact			
+52.6	52.84	same			
+52.88	53.06	thing			
+53.1	53.34	There			
+53.46	54.46	yes			
+54.54	54.66	and			
+54.72	55.38	then			
+55.4	55.56	there			
+55.6	55.74	must			
+55.78	55.94	be			
+56.08	56.18	one			
+56.18	56.28	A			
+56.28	56.38	Hard			
+56.68	56.78	That			
+56.84	56.94	i'm			
+56.98	57.18	Having 			
+57.44	58.88	time			
+59.04	59.26	Seeing			
+59.32	61.0	behind			
+61.06	61.26	so			
+61.26	61.46	Put			
+61.46	61.66	Put			
+61.66	61.76	A			
+61.76	62.06	Block			
+62.24	62.4	on			
+62.48	62.68	the			
+62.74	62.98	back			
+63.02	63.39	block			
+63.39	63.76	Good			
+63.8	63.86	and			
+63.9	64.06	then			
+64.12	64.28	put			
+64.36	64.44	one			
+64.48	64.56	on			
+64.62	64.74	the			
+64.8	65.22	top			
+65.28	65.36	in			
+65.4	65.46	the			
+65.5	65.64	middle			
+68.0	68.2	Alright			
+1.08	2.32		(p / put-01  	:mode imperative  	:ARG0 (y / you)  	:ARG1 (b / block  		:quant 1  			:direction (d / down)) 	:mod (a / all-right)) 		
+5.28	7.03		(u / um :mode expressive)		
+7.07	10.36		(p / put-01	 	:mode imperative 	:ARG0 (y / you) 	:ARG1 (b / block 		:quant 1) 	:location (a / apart 		:mod (b2 / block 			:quant 1)) 	:location (b3 / behind))		
+10.415	11.795		(t / towards 	:op1 (y / you))		
+12.796	14.006		(u / um  :mode expressive)		
+14.38	16.72		(p / put-01 	:mode imperative 	:ARG0 (y / you) 	:ARG1 (b / block 		:quant 2)) 		
+16.8	17.54		(k / kind-of)		
+17.71	24.98		(l / like-04 	:ARG2 (q / distance-quantity 		:mod (a / about) 		:unit (b / block 			:ARG1-of (h / have-quant-91 				:ARG2 (t / third))) 		:mod (a2 / apart))  	:ARG2-of (i / infer-01 		:ARG1 (h2 / have-degree-91 			:ARG2 (c / close-10) 			:ARG3 (m / more)  			:ARG4 (t2 / that))))		
+25.04	26.62		(s / stick-01 	:mode imperative 	:ARG0 (y / you) 	:time (t / then) 	:mod (a / all-right))		
+26.66	29.34		(m / multi-sentence 	:snt1 (n / no) 	:snt2 (l / look-02 		:ARG0 (t / that) 		:ARG1 (w / work-09) 		:polarity - ))		
+29.43	33.39		(t / think-01 	:ARG0 (i / i) 	:ARG1 (h / have-degree-91 		:ARG1 (e / everything) 		:ARG2 (t2 / together 			:mod (c / close-10)) 		:ARG3 (m / more 			:mod (s / slightly))))		
+33.49	33.73		(y / yeah)		
+33.8	41.69		(a / and 	:op1 (s / stick-01 		:mode imperative 		:ARG0 (y / you) 		:ARG1 (b / block 			:quant 1) 		:location (o / on 			:op1 (o2 / one 				:mod (f / front))) 		:time (n / now)) 	:op2 s 		:time n 		:mode imperative 		:ARG0 y 		:ARG1 (b2 / block 			:quant 1) 		:location (o3 / on 			:op1 (o4 / one 				:ARG1-of (l / left-20 					:ARG2 y))))		
+41.77	47.82		(m / multi-sentence 	:snt1 (n / no) 	:snt2 (m2 / move-01 		:mode imperative  		:ARG0 (y / you) 		:ARG1 (i / it) 		:purpose (b / be-located-at-91 			:ARG1 i 			:ARG2 (a / and 				:op1 (o / one 					:mod (f / front)) 				:op2 (o2 / one  					:ARG2-of (p / put-01 						:ARG0 y  						:time (j / just)))))))		
+47.94	50.42		(a / and 	:op2 (t / turn-01          		:mode imperative  		:ARG0 (y / you) 		:ARG1 (i / it) 		:purpose (p / parallel 			:domain i)))		
+50.486	51.766		(y / yes) 		
+51.84	53.34		(a / and 	:op2 (d / do-01          		:mode imperative  		:ARG0 (y / you) 		:ARG1 (t / thing 			:mod (s / same 				:mod (e / exact))) 		:location (t2 / there))) 		
+53.45	54.45		(y / yes)		
+54.53	61.0		(a / and 	:op2 (l / likely-01 		:ARG1 (b / be-02 			:ARG1 (o / one 				:location (b2 / behind) 				:ARG1-of (s / see-01 					:ARG0 (i / i) 					:ARG1-of (h / hard-02)))))) 		
+61.06	63.38		(p / put-01 	:mode imperative 	:ARG0 (y / you) 	:ARG1 (b / block 		:quant 1) 	:ARG2 (b2 / block  		:mod (b3 / back)))		
+63.39	63.76		(g / good)		
+63.79	65.23		(a / and 	:op2 (p / put-01 		:mode imperative 		:time (t / then) 		:ARG0 (y / you) 		:ARG1 (o / one) 		:ARG2 (o2 / on 			:op1 (t2 / top))))		
+65.28	65.64		(i / in 	:op1 (m / middle))		
+68.0	68.2		(a / alright)		
+0.0	    0.959			Unknown	
+0.959	1.992			RA: move, front left; RH: into claw, down;	
+1.992	4.025			body: still;	
+4.026	4.592			Unknown	
+4.592	6.425			body: still;	
+6.426	7.526			LA: move, front, into gap, front; LH: into claw, down;	
+7.526	8.092			LA: move, down; LH: claw, down;	
+8.092	12.025			body: still;	
+12.026	14.192			arms: rotate, gap, left; hands: claw, down;	
+14.192	14.992			arms: move, down, gap, left; hands: claw, down;	
+14.992	19.559			body: still;	
+19.559	22.992			arms: shake, gap, left; hands: facing, into closed;	
+22.992	24.092			body: still;	
+24.092	25.826			arms: move, up, gap, left; hands: claw, down;	
+25.826	27.226			arms: move, down; hands: into claw, down;	
+27.226	28.726			body: still;	
+28.726	29.826			arms: move, up; hands: into claw, down;	
+29.833	30.892			arms: together, left, gap, left; hands: claw, down;	
+30.892	32.992			body: still;	
+32.992	34.226			arms: move, down; hands: into claw, down;	
+34.226	35.226			RA: move, up; RH: into claw, down;	
+35.226	36.426			RA: move, down left; RH: claw, down;	
+36.426	38.092			RA: move, up right; RH: claw, down;	
+38.092	39.225			LA: move, up right; LH: into closed, down; RA: move, up back; RH: claw, down;	
+39.233	41.026			LA: move, down left; LH: into claw, down; RA: move, down front; RH: claw, down;	
+41.026	42.292			RA: move, up right; RH: into closed, left;	
+42.292	42.592			RA: move, left; RH: closed, left;	
+42.6	43.433			RA: move, front; RH: into point, front;	
+43.433	44.926			RA: move, down back; RH: point, down;	
+44.926	46.392			RA: move, front right; RH: point, down;	
+46.392	47.526			body: still;	
+47.526	48.026			RA: move, up; RH: into claw, front;	
+48.033	48.7			RH: rotate, claw, front;	
+48.7	49.326			RA: move, down; RH: claw, down;	
+49.326	51.559			body: still;	
+51.559	52.759			RA: move, up; RH: claw, down;	
+52.759	53.859			RA: move, down; RH: claw, down;	
+53.859	55.392			RA: move, up; RH: into point, front;	
+55.392	57.292			RA: move, up; RH: point, front;	
+57.292	58.626			Unknown	
+58.626	60.826			RA: move, front; RH: point, front;	
+60.826	62.159			RA: move, front; RH: point, front;	
+62.159	63.392			RA: move, down; RH: into claw, down;	
+63.392	64.759			RA: move, up; RH: into point, front;	
+64.759	65.392			Unknown	
+65.4	66.792			RA: move, down; RH: into claw, down;	
+66.792	68.059			body: move, back; arms: apart, left; hands: facing, claw;	
+68.059	69.584			Unknown	
+1.44	2.32				(g / gesture-unit 	:op1 (i / icon-GA 		:ARG0 (s / signaler)     		:ARG1 (p / put-01)     		:ARG2 (a / actor)) 	:op2 (d / deixis-GA 		:ARG0 s     		:ARG1 (l / location)     		:ARG2 a))
+7.08	8.65				(a / and 	:op2 (g / gesture-unit 		:op1 (i / icon-GA 			:ARG0 (s / signaler)     			:ARG1 (p / put-01 				:ARG1 (b / block))     			:ARG2 (a2 / actor)) 		:op2 (d / deixis-GA 			:ARG0 s     			:ARG1 (l / location)     			:ARG2 a2)))
+12.02	14.99				(a / and 	:op1 (g2 / gesture-unit 		:op1 (i / icon-GA 			:ARG0 (s / signaler)     			:ARG1 (p / put-01 				:ARG1 (b / block))     			:ARG2 (a2 / actor)) 		:op2 (d / deixis-GA 			:ARG0 s     			:ARG1 (l / location)     			:ARG2 a2)) 	:op2 (g / gesture-unit 		:op1 (i2 / icon-GA 			:ARG0 s     			:ARG1 (p2 / put-01 				:ARG1 (b2 / block))     			:ARG2 a2) 		:op2 (d2 / deixis-GA 			:ARG0 s     			:ARG1 (l2 / location)     			:ARG2 a2)))
+19.55	22.98				(i / icon-GA     :ARG0 (s / signaler)     :ARG1 (c / close-06 :mode expressive)     :ARG2 (a / actor))
+24.09	27.22				(i / icon-GA 	:ARG0 (s / signaler) 	:ARG1 (g / grab-01 		:ARG1 (b / block 			:quant 2)) 	:ARG2 (a / actor))
+28.733	30.903				(i / icon-GA 	:ARG0 (s / signaler) 	:ARG1 (c / close-06) 	:ARG2 (a / actor))
+34.22	38.09				(g / gesture-unit 	:op1 (i / icon-GA 		:ARG0 (s / signaler) 		:ARG1 (p / put-01 			:ARG1 (b / block)) 		:ARG2 (a / actor)) 	:op2 (d / deixis-GA 		:ARG0 s 		:ARG1 (l / location) 		:ARG2 a))
+38.1	41.02				(a / and 	:op2 (i / icon-GA 		:ARG0 (s / signaler) 		:ARG1 (l / left-20 			:ARG2 (a2 / actor)) 		:ARG2 a2))
+41.03	43.43				(g / gesture-unit 	:op1 (i / icon-GA 		:ARG0 (s / signaler) 		:ARG1 (m / move-01 			:direction (f / front)) 		:ARG2 (a / actor)) 	:op2 (d / deixis-GA 		:ARG0 s 		:ARG1 (l / location) 		:ARG2 a))
+43.45	46.4				(d / deixis-GA 	:ARG0 (s / signaler) 	:ARG1 (l / location) 	:ARG2 (a / actor))
+47.52	48.7				(i / icon-GA 	:ARG0 (s / signaler) 	:ARG1 (t / turn 		:ARG1 (b / block)) 	:ARG2 (a / actor))
+51.567	53.867				(d / deixis-GA 	:ARG0 (s / signaler) 	:ARG1 (l / location) 	:ARG2 (a / actor))
+53.877	55.387				(d / deixis-GA 	:ARG0 (s / signaler) 	:ARG1 (l / location) 	:ARG2 (a / actor))
+58.633	60.833				(d / deixis-GA 	:ARG0 (s / signaler) 	:ARG1 (l / location) 	:ARG2 (a / actor))
+60.853	62.163				(d / deixis-GA 	:ARG0 (s / signaler) 	:ARG1 (l / location) 	:ARG2 (a / actor))
+63.4	64.767				(d / deixis-GA 	:ARG0 (s / signaler) 	:ARG1 (l / location) 	:ARG2 (a / actor))
+64.783	65.403				(d / deixis-GA 	:ARG0 (s / signaler) 	:ARG1 (l / location) 	:ARG2 (a / actor))
+68.064	69.584				(e / emblem-GA 	:ARG0 (s / signaler) 	:ARG1 (o / okay) 	:ARG2 (a / actor))
