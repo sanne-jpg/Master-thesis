@@ -1,0 +1,306 @@
+Begin Time - ss.msec	End Time - ss.msec	Speech	Speech AMR	Gesture - Label	Gesture AMR
+2.05	2.29	Okay			
+2.33	2.51	so			
+2.59	2.69	Ah			
+2.73	2.87	this			
+2.91	3.15	reminds			
+3.23	3.33	me			
+3.41	3.53	of			
+3.61	3.69	You			
+3.73	3.91	Know			
+3.93	4.85	berlin			
+5.01	5.21	it's			
+5.23	5.65	Ah			
+5.93	7.43	ah			
+7.47	7.65	the			
+7.69	8.03	Riech-			
+8.05	8.49	Stag			
+8.59	9.67	Okay			
+9.85	10.35	Uh			
+10.35	10.65	Well			
+10.65	10.83	Not			
+10.83	11.21	really			
+11.31	11.77	Sorry			
+11.81	12.09	No			
+12.11	12.33	forget			
+12.37	12.59	about			
+12.63	12.95	that			
+13.03	13.15	it's			
+13.19	13.29	not			
+13.33	13.39	the			
+13.43	13.63	Reich-			
+13.67	14.05	Stag			
+14.09	14.51	anyway			
+14.61	14.79	so			
+14.85	15.03	we'll			
+15.09	15.41	have			
+15.49	16.01	Two			
+16.17	16.29	but			
+16.35	16.49	it's			
+16.51	16.65	still			
+16.71	16.77	in			
+16.81	17.23	Berlin			
+17.25	17.57	So			
+17.57	17.75	We’ll			
+17.79	18.09	have			
+18.17	18.43	two			
+18.47	19.75	blocks			
+19.81	20.29	Ah 			
+20.29	20.77	Like			
+20.77	21.23	Apart			
+21.23	21.35	from			
+21.41	21.57	each			
+21.59	21.79	other			
+21.79	21.99	yeah			
+22.33	22.43	a			
+22.47	22.77	block			
+22.79	23.32	space			
+23.32	23.85	A			
+23.97	24.23	block			
+24.25	24.55	space			
+24.55	24.95	Yeah			
+24.95	25.35	Exactly			
+25.35	25.55	So			
+25.55	25.73	That’s			
+25.73	25.95	Our			
+26.01	26.13	New			
+26.17	26.27	you			
+26.31	26.39	did			
+26.41	26.55	not			
+26.59	26.73	miss			
+26.75	26.85	from			
+26.91	26.99	in			
+27.05	27.25	right			
+27.31	27.57	blocks			
+27.61	28.43	space			
+28.49	28.59	and			
+28.65	28.81	We’ll			
+28.85	29.05	Have			
+29.11	29.39	Another			
+29.39	30.97	block			
+31.07	31.67	just			
+31.73	32.13	falling			
+32.21	32.47	down			
+32.55	32.67	as			
+32.73	32.83	if			
+32.91	33.11	it			
+33.15	33.37	just			
+33.43	33.65	for			
+33.67	33.89	fell			
+33.93	34.09	down			
+34.13	34.39	from			
+34.47	35.49	heaven			
+35.55	35.75	Right			
+35.81	35.97	of			
+36.23	36.33	Yeah			
+36.39	36.47	It			
+36.51	37.09	Cannot			
+37.13	37.27	Fall			
+37.33	37.43	Down			
+37.45	37.61	from			
+37.67	37.87	the			
+37.93	38.15	Ground			
+38.21	38.95	right			
+38.99	39.43	so			
+39.95	39.99	it			
+40.03	40.15	will			
+40.17	40.23	be			
+40.29	41.29	Diagonal			
+41.29	41.31	Like			
+41.31	41.51	A			
+41.51	42.35	Diamond			
+42.35	43.15	No no no			
+43.15	43.55	But			
+43.55	44.01	That			
+44.01	44.17	should			
+44.21	44.49	be			
+44.59	44.75	on			
+44.77	45.03	top			
+45.11	45.25	on			
+45.29	45.47	top			
+45.53	45.69	of			
+45.75	46.01	the			
+46.01	46.08	Of			
+46.08	46.15	The			
+46.15	46.29	Other			
+46.49	47.15	blocks			
+47.15	47.55	Yeah			
+47.55	47.79	But			
+47.79	47.99	bothe			
+48.05	48.41	opposite			
+48.45	48.65	Way			
+48.65	48.95	Like			
+49.95	50.95	Um			
+50.95	51.55	Okay			
+51.55	51.95	So			
+51.95	52.35	No no no			
+52.35	52.55	Don’t			
+52.55	52.73	Do			
+52.73	54.05	that			
+54.05	54.85	Exactly			
+54.85	55.03	just			
+55.09	55.27	turn			
+55.33	56.33	It			
+56.37	56.53	turn			
+56.57	56.63	It			
+56.67	57.15	Vertical			
+57.15	58.05	Okay			
+58.05	58.25	On			
+58.25	58.85	That			
+58.85	59.25	Exactly			
+59.25	59.65	On 			
+59.65	60.15	That			
+60.15	60.55	Axis			
+60.55	61.05	So			
+61.05	61.55	(Unknown)			
+61.55	61.85	Yeah			
+61.85	61.95	it			
+61.95	62.15	Shouldn’t			
+62.15	62.45	Fall			
+62.45	62.65	It			
+62.65	63.05	Shouldn’t			
+63.05	63.53	Fall			
+63.53	63.59	and			
+63.63	63.81	please			
+63.85	64.03	close			
+64.09	64.15	a			
+64.17	64.35	little			
+64.37	64.53	bit			
+64.55	64.67	the			
+64.71	64.95	Base			
+64.95	65.05	the			
+65.09	65.33	base			
+65.37	65.67	Close			
+65.67	65.87	A			
+65.87	66.07	Little			
+66.07	66.27	Bit			
+66.27	66.55	More			
+66.55	66.67	not			
+66.77	66.89	Not			
+66.93	67.07	too			
+67.11	68.43	much			
+68.47	68.59	can			
+68.63	68.71	you			
+68.73	68.87	just			
+68.93	69.17	open			
+69.23	69.51	it			
+69.57	69.79	open			
+69.85	69.93	it			
+69.97	70.11	A			
+70.15	70.35	Little			
+70.35	71.95	Bit			
+71.95	72.65	Uh			
+72.65	73.15	Yeah			
+73.15	73.57	That			
+73.57	73.71	has			
+73.75	73.89	some			
+73.93	74.31	motion			
+74.37	74.63	it			
+74.65	75.25	Okay			
+75.29	75.37	i			
+75.39	75.55	think			
+75.57	76.27	Yeah			
+76.33	76.41	That’s			
+76.45	76.55	About			
+76.73	76.87	right			
+2.73	4.85		(r / remind-01 	:ARG0 (t / this) 	:ARG1 (b / Berlin) 	:ARG2 (m / me))		
+5.01	8.49		(r / Reichstag 	:domain (i / it))		
+12.11	12.95		(f / forget-01 	:mode imperative 	:ARG0 (y / you) 	:ARG1 (t / that))		
+13.03	14.05		(r / Reichstag 	:polarity - 	:domain (i / it))		
+16.17	17.23		(c / contrast-01 	:ARG2 (b / be-located-at-91 		:ARG1 (i / it) 		:ARG2 (b2 / Berlin)))		
+17.57	24.55		(h / have-03 	:ARG0 (w / we) 	:ARG1 (b / block 		:quant 2 		:mod (a / apart 			:op1 (o / other) 			:extent (b2 / block 				:quant 1))))		
+25.35	28.43		(u / unit 	:ARG1-of (n / new-01) 	:poss (w / we) 	:ARG2-of (m / measure-01) 	:domain (b / block_space))		
+28.65	35.49		(h / have-03 	:ARG0 (w / we) 	:ARG1 (b / block 		:mod (a / another) 		:ARG1-of (f / fall-01 			:direction (d / down) 			:mod (j / just) 			:conj-as-if f 				:ARG1 (i / it) 				:ARG3 (f2 / from 					:op1 (h2 / heaven)))))		
+36.39	38.95		(p / possible-01 	:polarity - 	:ARG1 (f / fall-01 		:ARG1 (i / it) 		:ARG3 (g / ground)) 	:ARG1-of (r / request-confirmation-91))		
+39.95	42.35		(d / diagonal 	:domain (i / it 		:ARG1-of (r / resemble-01 			:ARG2 (d2 / diamond))))		
+43.15	47.15		(c / contrast-01 	:ARG2 (r / recommend-01 		:ARG1 (b / be-located-at-91 			:ARG1 (t / that) 			:ARG2 (o / on 				:op1 (t2 / top 					:poss (b2 / block 						:mod (o2 / other)))))))		
+47.55	48.65		(c / contrast-01 	:ARG2 (i / implicit-predicate-00 		:mode imperative 		:ARG0 (y / you) 		:direction (w / way 			:mod (o / opposite))))		
+52.35	54.05		(d / do-01 	:mode imperative 	:polarity - 	:ARG0 (y / you) 	:ARG1 (t / that))		
+54.85	57.15		(t / turn-01 	:mode imperative 	:mod (j / just) 	:ARG0 (y / you) 	:ARG1 (i / it) 	:direction (v / vertical))		
+58.05	60.55		(o / on 	:op1 (a / axis 		:mod (t / that)))		
+61.05	63.53		(c / contrast-01 	:ARG2 (r / recommend-01 		:polarity - 		:ARG1 (f / fall-01 			:ARG1 (i / it))))		
+63.63	65.33		(c / close-01 	:mode imperative 	:polite + 	:ARG0 (y / you) 	:ARG1 (b / base) 	:degree (b2 / bit 		:mod (l / little)))		
+65.37	66.55		(c / close-01 	:mode imperative 	:ARG0 (y / you) 	:degree (m / more 		:degree (b2 / bit 			:mod (l / little))))		
+66.55	68.43		(i / implicit-predicate-00 	:mode imperative 	:ARG0 (y / you) 	:manner (m / much 		:polarity - 		:degree (t / too)))		
+68.47	71.95		(o / open-01 	:mode imperative 	:polite + 	:mod (j / just) 	:ARG0 (y / you) 	:ARG1 (i / it) 	:degree (b / bit 		:mod (l / little)))		
+73.15	74.63		(h / have-03 	:ARG0 (t / that) 	:ARG1 (m / motion 		:mod (s / some) 		:location (o / on 			:op1 (i / it))))		
+0.0	    1.417			body: still;	
+1.423	12.817			Unknown	
+12.817	14.6			hands: shake, into claw, front;	
+14.6	15.5			arms: move, up, into gap, left; hands: into facing, claw;	
+15.5	16.15			arms: move, down;	
+16.157	18.966			Unknown	
+18.967	19.583			arms: move, down;	
+19.583	21.75			body: still;	
+21.757	23.09			Unknown	
+23.09	23.733			arms: apart, left; hands: facing, into closed;	
+23.733	24.35			arms: together, left;	
+24.35	25.183			head: nod;	
+25.183	25.9			hands: shake;	
+25.9	27.1			Unknown	
+27.1	28.25			arms: apart, left;	
+28.257	29.2			LA: move, up; LH: into one, front;	
+29.2	30.083			LA: move, down;	
+30.09	31.023			Unknown	
+31.023	32.523			arms: move, up; hands: into facing, into open;	
+32.523	33.223			LH: rotate;	
+33.223	35.69			arms: move, down;	
+35.69	36.167			Unknown	
+36.167	37.617			head: shake; hands: rotate, open, up;	
+37.623	38.767			Unknown	
+38.767	39.584			LA: move, down; LH: into point, front;	
+39.59	40.15			hands: into facing, closed; LA: move, up;	
+40.15	40.7			arms: rotate;	
+40.7	41.367			arms: shake;	
+41.367	42.217			Unknown	
+42.223	42.733			body: still;	
+42.733	43.533			arms: move, down; hands: shake;	
+43.533	44.333			hands: shake, into point, front;	
+44.333	44.9			RA: move, up; RH: into claw, left;	
+44.9	45.333			RH: shake, front;	
+45.333	45.716			RA: move, down;	
+45.717	46.684			Unknown	
+46.69	47.49			body: still;	
+47.49	48.017			arms: move, front; hands: into claw, up;	
+48.017	48.917			hands: rotate;	
+48.923	51.223			body: still;	
+51.223	52.35			body: move, back;	
+52.35	53.333			arms: move, down; hands: shake, into point, front;	
+53.333	54.8			arms: move, up; hands: into claw, up;	
+54.8	55.267			arms: move, down;	
+55.267	56.767			hands: rotate;	
+56.767	58.984			body: still;	
+58.99	63.166			Unknown	
+63.167	63.9			arms: apart, left; hands: into facing, left, closed;	
+63.9	64.267			arms: together, left;	
+64.267	66.117			arms: shake;	
+66.123	67.2			hands: rotate;	
+67.2	68.317			head: rotate;	
+68.317	71.35			arms: shake;	
+71.35	72.417			arms: apart, left;	
+72.423	75.617			Unknown	
+75.623	77.34			arms: move, down; hands: into open, back;	
+14.6	16.15				(a / and 	:op1 (i / icon-GA 		:ARG0 (s / signaler) 		:ARG1 (s2 / stack) 		:ARG2 (a2 / actor)) 	:op2 (i2 / icon-GA 		:ARG0 s 		:ARG1 s2 		:ARG2 a2))
+16.783	18.966				(a / and 	:op1 (i / icon-GA 		:ARG0 (s / signaler) 		:ARG1 (b / block) 		:ARG2 (a2 / actor)) 	:op2 (i2 / icon-GA 		:ARG0 s 		:ARG1 b2 		:ARG2 a2))
+18.967	19.583				(a / and 	:op1 (i / icon-GA 		:ARG0 (s / sigaler) 		:ARG1 (p / put-01) 		:ARG2 (a2 / actor)) 	:op2 (i2 / icon-GA 		:ARG0 s 		:ARG1 p 		:ARG2 a2))
+22.46	23.21				(i / icon-GA 	:ARG0 (s / signaler) 	:ARG1 (s2 / space) 	:ARG2 (a / actor))
+23.22	24.35				(i / icon-GA 	:ARG0 (s / signaler) 	:ARG1 (b / block) 	:ARG2 (a / actor))
+27.1	28.25				(i / icon-GA 	:ARG0 (s / singnaler) 	:ARG1 (b / block) 	:ARG2 (a / actor))
+29.2	30.083				(i / icon-GA 	:ARG0 (s / singaler) 	:ARG1 1 	:ARG2 (a / actor))
+31.023	33.223				(i / icon-GA 	:ARG0 (s / signaler) 	:ARG1 (b / block) 	:ARG2 (a / actor))
+33.223	35.69				(g / gesture-unit 	:op1 (i / icon-GA 		:ARG0 (s / signaler) 		:ARG1 (b / block) 		:ARG2 (a / actor)) 	:op2 (i2 / icon-GA 		:ARG0 s 		:ARG1 (m / move-01 			:direction (d / down)) 		:ARG2 a))
+38.767	39.583				(d / deixis-GA 	:ARG0 (s / signaler) 	:ARG1 (b / block) 	:ARG2 (a / actor))
+40.15	41.367				(i / icon-GA 	:mode expressive 	:ARG0 (s / signaler) 	:ARG1 (r / rotate-01) 	:ARG2 (a / actor))
+42.733	43.533				(e / emblem-GA 	:mode expressive 	:ARG0 (s / signaler) 	:ARG1 (n / no) 	:ARG2 (a / actor))
+43.533	44.333				(d / deixis-GA 	:mode expressive 	:ARG0 (s / signaler) 	:ARG1 (b / block) 	:ARG2 (a / actor))
+44.333	45.716				(i / icon-GA 	:ARG0 (s / signaler) 	:ARG1 (t / top) 	:ARG2 (a / actor))
+45.717	46.683				(i / icon-GA 	:ARG0 (s / signaler) 	:ARG1 (b / backward) 	:ARG2 (a / actor))
+47.483	48.916				(i / icon-GA 	:ARG0 (s / signaler) 	:ARG1 (r / rotate-01) 	:ARG2 (a / actor))
+52.35	53.333				(g / gesture-unit 	:op1 (e / emblem-GA 		:mode expressive 		:ARG0 (s / signaler) 		:ARG1 (n / no) 		:ARG2 (a / actor)) 	:op2 (d / deixis-GA 		:mode expressive 		:ARG0 s 		:ARG1 (b / block) 		:ARG2 a))
+54.32	55.26				(i / icon-GA 	:ARG0 (s / signaler) 	:ARG1 (b / block) 	:ARG2 (a / actor))
+55.267	56.767				(g / gesture-unit 	:op1 (i / icon-GA 		:ARG0 (s / signaler) 		:ARG1 (b / block) 		:ARG2 (a / actor)) 	:op2 (i2 / icon-GA 		:ARG0 s 		:ARG1 (r / rotate-01) 		:ARG2 a))
+58.983	60.083				(e / emblem-GA 	:mode expressive 	:ARG0 (s / signaler) 	:ARG1 (y / yes) 	:ARG2 (a / actor))
+61.3	63.166				(d / deixis-GA 	:mode expressive 	:ARG0 (s / signaler) 	:ARG1 (b / block) 	:ARG2 (a / actor))
+63.9	66.117				(i / icon-GA 	:mode expressive 	:ARG0 (s / signaler) 	:ARG1 (t / together) 	:ARG2 (a / actor))
+68.317	71.35				(i / icon-GA 	:mode expressive 	:ARG0 (s / signaler) 	:ARG1 (a / apart) 	:ARG2 (a2 / actor))
+74.667	75.63				(e / emblem-GA 	:mode expressive 	:ARG0 (s / signaler) 	:ARG1 (y / yes) 	:ARG2 (a / actor))

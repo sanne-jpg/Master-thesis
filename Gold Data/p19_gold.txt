@@ -1,0 +1,109 @@
+Begin Time - ss.msec	End Time - ss.msec	Speech	Speech AMR	Gesture - Label	Gesture AMR
+0.05	0.25	three			
+0.29	0.83	blocks			
+6.25	6.37	um			
+6.43	6.53	put			
+6.55	6.69	them			
+6.71	8.39	together			
+8.57	8.95	and			
+9.13	9.27	uh			
+9.33	9.49	two			
+9.53	12.39	blocks			
+12.55	12.69	both			
+12.73	13.45	sides			
+13.49	13.71	yep			
+13.79	13.97	and			
+14.13	14.67	a			
+14.77	14.91	little			
+14.97	15.19	near			
+15.25	16.29	you			
+16.37	16.87	yes			
+17.03	17.87	and			
+18.11	18.51	uh			
+18.57	18.79	two			
+18.81	19.09	more			
+19.17	22.08	blocks			
+22.08	24.99	up			
+25.07	25.33	um			
+25.39	26.43	behind			
+26.43	27.47	the			
+27.57	27.91	two			
+28.05	28.21	one			
+28.23	28.43	and			
+28.47	29.05	don't			
+29.05	29.63	rotate			
+29.63	30.21	don't			
+30.21	30.79	don't			
+30.79	31.37	rotate			
+31.37	31.95	yeah			
+31.95	32.53	and			
+32.53	33.11	go			
+33.11	33.69	near			
+33.69	34.27	yeah			
+34.27	34.85	great			
+34.85	35.43	yep			
+0.04	0.83		(b / block 	:quant 3)		
+6.43	8.39		(p / put-01 	:mode imperative 	:ARG0 (y / you) 	:ARG1 (t / them)  	:ARG2 (t2 / together))  		
+8.56	12.39		(a / and  	:op2 (b / block 		:quant 2))		
+12.561	13.451		(s / side 	:mod (b / both))		
+13.495	13.715		(y / yep)		
+13.796	16.296		(a / and  	:op1 (n / near-02 		:ARG2 (y / you) 		:mod (l / little)))		
+16.386	17.876		(a / and 	:op1 (y / yes)) 		
+18.57	22.08		(b / block 	:quant 2 	:mod (m / more))		
+25.395	28.215		(b / behind  	:op1 (o / one 		:mod (t / two)))		
+28.24	31.37		(a / and 	:op1 (r / rotate-01  		:polarity -  		:mode imperative 		:ARG0 (y / you))) 		
+31.382	31.952		(y / yeah)		
+31.967	32.527		(a / and)		
+32.547	33.687		(g / go-01 	:manner (n / near-02))		
+33.707	34.267		(y / yeah)		
+34.287	34.847		(g / great)		
+34.867	35.437		(y / yep) 		
+0.0	    0.267			LH: into three, front;	
+0.267	0.567			LA: move, down	
+0.567	0.967			LA: move, front; LH: open, down;	
+0.967	1.467			RA: move, right;	
+1.467	1.867			arms: move, back;	
+1.867	5.967			body: still;	
+5.967	6.333			arms: apart, left; hands: facing, left;	
+6.333	6.866			arms: together, left;	
+6.867	7.367			body: still;	
+7.367	9.0			    Unknown	
+9.0	    9.5			    LA: move, up front; LH:into two, front;	
+9.5	    10.033			LA: move, down;	
+10.033	11.6			Unknown	
+11.6	14.0			hands: into claw, front;	
+14.0	15.0			arms: move, back;	
+15.0	16.433			hands: into claw, front;	
+16.433	18.333			RA: move, front; RH: point, front;	
+18.333	20.2			RH: into two, up;	
+20.2	23.067			RA: move, back; RH: to face;	
+23.067	23.633			RA: move, front down;	
+23.633	25.5			RA: move, front;	
+25.5	27.167			body: still;	
+27.167	27.767			arms: apart, into gap; hands: facing, left;	
+27.767	28.667			arms: move together, up front; hands: rotate;	
+28.667	29.834			head: nod; hands: into open, front;	
+29.834	30.467			arms: apart, left; hands: facing, claw;	
+30.467	31.1			arms: together, left; hands: claw, down;	
+31.1	31.733			body: still;	
+31.733	32.066			arms: apart, left; hands: facing, closed;	
+32.067	33.034			arms: together, left; hands: facing, closed;	
+33.034	33.867			head: nod;	
+33.867	34.833			hands: thumb, up;	
+34.833	36.033			head: nod;	
+36.033	37.433			body: still;	
+0.0	    0.26				(i / icon-GA 	:ARG0 (s / signaler) 	:ARG1 3 	:ARG2 (a / actor))
+0.967	1.867				(a / and  	:op1 (g / gesture-unit 		:op1 (i / icon-GA 			:ARG0 s 			:ARG1 (p / put-01 				:ARG1 (b / block)) 				:ARG2 (o / on 					:op1 (t / table)) 			:ARG2 a) 		:op2 (d / deixis-GA 			:ARG0 s 			:ARG1 (l / location)  			:ARG2 a)) 	:op2 (g2 / gesture-unit 		:op1 (i2 / icon-GA 			:ARG0 s 			:ARG1 (p2 / put-01 				:ARG1 (b2 / block)) 				:ARG2 (o2 / on 					:op1 (t2 / table)) 			:ARG2 a) 		:op2 (d2 / deixis-GA 			:ARG0 s 			:ARG1 (l2 / location)  			:ARG2 a)) 	:op3 (g3 / gesture-unit 		:op1 (i3 / icon-GA 			:ARG0 s 			:ARG1 (p3 / put-01 				:ARG1 (b3 / block)) 				:ARG2 (o3 / on 					:op1 (t3 / table)) 			:ARG2 a) 		:op2 (d3 / deixis-GA 			:ARG0 s 			:ARG1 (l3 / location)  			:ARG2 a)))
+5.96	6.86				(i / icon-GA 	:ARG0 (s / signaler) 	:ARG1 (p / push-01 		:ARG2 (t / together)) 	:ARG2 (a / actor))  
+9.005	9.495				(i / iconic-GA 	:ARG0 (s / signaler) 	:ARG1 2 	:ARG2 (a / actor))
+11.596	14.001				(g / gesture-unit 	:op1 (i / icon-GA 		:ARG0 (s / signaler) 		:ARG1 (b / block) 		:ARG2 (a / actor)) 	:op2 (i2 / icon-GA 		:ARG0 s 		:ARG1 (b2 / block) 		:ARG2 a))
+14.001	14.991				(g / gesture-unit 	:op1 (g2 / gesture-unit 		:op1 (i / icon-GA 			:ARG0 (s / signaler) 			:ARG1 (b / block) 			:ARG2 (a / actor)) 		:op2 (i2 / icon-GA 			:ARG0 s 			:ARG1 (b2 / block) 			:ARG2 a)) 	:op2 (i3 / icon-GA 		:ARG0 s 		:ARG1 (p / pull-01 			:direction (b3 / back)) 		:ARG2 a)) 
+18.1	18.5				(d / deixis-GA 	:ARG0 (s / signaler) 	:ARG1 (l / location) 	:ARG2 (a / actor))
+18.57	22.07				(g / gesture-unit 	:op1 (d / deixis-GA 		:ARG0 (s / signaler) 		:ARG1 (b / block) 		:ARG2 (a / actor)) 	:op2 (i / icon-GA 		:ARG0 s 		:ARG1 2 		:ARG2 a)) 
+23.639	27.169				(g / gesture-unit 	:op1 (d / deixis-GA 		:ARG0 (s / signaler) 		:ARG1 (l / location) 		:ARG2 (a / actor)) 	:op2 (d2 / deixis-GA 		:ARG0 s 		:ARG1 (l2 / location) 		:ARG2 a))
+27.757	28.667				(g / gesture-unit 	:op1 (i / icon-GA 		:ARG0 (s / signaler) 		:ARG1 (r / rotate-01) 		:ARG2 (a / actor)) 	:op2 (e / emblem-GA  		:ARG0 s 		:ARG1 (n / no) 		:ARG2 a))
+28.682	29.832				(e / emblem-GA  	:ARG0 s 	:ARG1 (n / no) 	:ARG2 a)
+29.847	33.037				(i / icon-GA  	:mode expressive 	:ARG0 (s / signaler) 	:ARG1 (m / move-01 		:ARG2 (n / near-02)) 	:ARG2 (a / actor))  
+33.047	33.867				(e / emblem-GA 	:ARG0 (s / signaler) 	:ARG1 (y / yes) 	:ARG2 (a / actor)) 
+33.867	34.832				(e / emblem-GA 	:ARG0 (s / signaler) 	:ARG1 (g / good) 	:ARG2 (a / actor)) 
+34.859	36.039				(e / emblem-GA 	:ARG0 (s / signaler) 	:ARG1 (y / yes) 	:ARG2 (a / actor)) 

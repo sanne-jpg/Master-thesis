@@ -1,0 +1,193 @@
+Begin Time - ss.msec	End Time - ss.msec	Speech	Speech AMR	Gesture - Label	Gesture AMR
+1.45	1.71	okay			
+1.77	1.83	i			
+1.85	2.11	need			
+2.15	2.35	four			
+2.39	2.59	base			
+2.67	3.47	again			
+3.53	3.61	and			
+3.65	3.75	it's			
+3.77	3.87	going			
+3.91	4.03	to			
+4.07	5.69	be			
+5.75	5.97	like			
+6.23	6.39	a			
+6.47	6.67	fan			
+6.73	7.37	or			
+7.51	7.69	sound			
+7.73	7.91	wave			
+7.95	8.09	going			
+8.21	10.13	out			
+10.23	10.41	so			
+10.45	10.79	like			
+10.87	11.27	fanned			
+11.43	11.73	out			
+11.81	12.01	away			
+12.05	12.17	from			
+12.25	19.11	you			
+19.19	19.37	just			
+19.45	20.45	four			
+23.09	23.41	okay			
+23.43	23.61	so			
+23.63	23.91	think			
+24.13	24.75	of			
+24.77	24.93	like			
+24.99	25.09	a			
+25.13	25.57	wifi			
+25.61	26.31	signal			
+26.31	26.43	where			
+26.45	26.57	it’s			
+26.59	26.71	a			
+26.73	26.89	u			
+26.93	28.19	shape			
+28.23	28.35	then			
+28.39	29.21	it's			
+29.37	32.83	yeah			
+32.91	33.08	the			
+33.08	33.25	next			
+33.35	33.53	one			
+33.63	33.89	is			
+33.97	34.23	three			
+34.31	34.43	on			
+34.47	34.63	top			
+34.69	34.77	of			
+34.89	39.55	those			
+39.63	39.7	in			
+39.7	39.77	a			
+40.37	40.52	just			
+40.52	40.67	like			
+40.69	40.79	you’re			
+40.83	41.05	building			
+41.11	41.17	a			
+41.21	46.35	tower			
+46.43	46.51	and			
+46.61	47.61	then			
+47.65	47.81	take			
+47.83	47.89	the			
+47.93	48.05	two			
+48.11	48.27	on			
+48.33	49.37	top			
+49.41	49.49	so			
+49.51	49.63	we’re			
+49.67	49.91	building			
+49.99	50.35	up			
+50.35	50.75	a			
+51.45	51.75	even			
+51.79	52.49	column			
+52.49	52.54	i			
+52.54	53.44	guess			
+53.44	53.49	so			
+53.49	53.69	the			
+53.69	53.84	base			
+53.84	53.99	is			
+53.99	54.09	going			
+54.11	54.15	to			
+54.19	54.33	have			
+54.41	55.05	four			
+55.09	55.24	second			
+55.24	55.39	one’s			
+55.39	55.49	going			
+55.49	55.54	to			
+55.54	55.69	have			
+55.75	56.37	three			
+56.45	56.53	then			
+56.55	56.65	two			
+56.71	56.81	on			
+56.85	56.95	top			
+57.01	57.07	of			
+57.11	57.25	that			
+57.31	57.37	and			
+57.39	57.49	then			
+57.59	57.63	one			
+1.45	1.71		(o / okay)		
+1.77	3.47		(n / need-01   :ARG0 (i / i)   :ARG1 (b / base           :quant 4)   :mod (a / again))		
+3.53	10.13		(a / and   :op2 (l / like-04          :ARG1 (i / it)          :ARG2 (o / or                  :op1 (f / fan)                  :op2 (w / wave                         :mod (s / sound)                         :ARG0-of (g / go-out-17)))))		
+10.23	19.11		(l / like-04   :ARG1 (f / fan-01           :mod (o / out)           :direction (a / away                        :op1 (y / you))))		
+19.19	20.45		(i / implicit-role   :quant 4   :mod (j / just))		
+23.09	23.41		(o / okay)		
+23.63	28.19		(t / think-01   :mode imperative   :ARG0 (y / you)   :ARG1 (s / signal           :mod (w / wifi)           :ARG1-of (m / mean-01                      :ARG2 (s2 / shape                              :mod (u / u)))))		
+29.37	32.83		(y / yeah)		
+32.91	39.55		(i / implicit-role   :quant 3   :location (o / on-top-of               :op1 (t / that))   :domain (o2 / one             :mod (n / next)))		
+40.37	46.35		(l / like-04   :ARG1 (b / build-01           :ARG0 (y / you)           :ARG1 (t / tower))   :mod (j / just))		
+46.43	49.37		(a / and   :op2 (t / take-01          :mode imperative          :ARG0 (y / you)          :ARG1 (i / implicit-role                  :quant 2                  :location (o / on                              :op1 (t2 / top))))   :mod (t3 / then))		
+49.51	53.44		(b / build-up-05   :ARG0 (w / we)   :ARG1 (c / column           :mod (e / even))   :ARG1-of (g / guess              :ARG0 (i / i)))		
+53.49	57.63		(a / and   :op1 (h / have-03          :ARG0 (b / base)          :ARG1 (i / implicit-role                  :quant 4))   :op2 (h2 / have-03          :ARG0 (i2 / implicit-role                  :ord (o / ordinal-entity                         :value 2))          :ARG1 (i3 / implicit-role                  :quant 3))   :op3 (i4 / implicit-predicate-00          :mode imperative          :ARG0 (y / you)          :ARG1 (i5 / implicit-role                  :quant 2)          :destination (o2 / on-top-of                         :op1 (t / that)))   :op4 (i6 / implicit-predicate-00          :mode imperative          :ARG0 y          :ARG1 (i7 / implicit-role                  :quant 1)))		
+0.0	    0.595			RA: move, down;	
+0.595	1.962			RA: move, up; RH: into four, front;	
+1.967	2.717			RH: shake, fornt;	
+2.717	3.295			body: still;	
+3.295	4.429			arms: into contact, front; hands: into closed, back;	
+4.429	5.262			Unknown	
+5.262	6.412			arms: apart, left;	
+6.417	6.829			arms: into contact, front;	
+6.829	7.562			arms: apart, left;	
+7.567	8.129			arms: move, down;	
+8.129	9.429			Unknown	
+9.433	10.533			arms: into contact, front; hands: into closed, back;	
+10.533	11.166			arms: apart, left;	
+11.167	11.617			arms: into contact, front;	
+11.617	11.967			arms: apart, left;	
+11.967	12.817			arms: move, down;	
+12.817	16.729			Unknown	
+16.729	18.429			head: rotate;	
+18.429	18.995			body: still;	
+18.995	20.795			RA: move, up; RH: into four, front;	
+20.795	22.729			RA: move, down;	
+22.729	24.295			arms: move, up, into gap, left; hands: into point, front;	
+24.295	25.229			arms: into contact, left;	
+25.229	25.862			arms: apart, left;	
+25.862	26.329			arms: into contact, left;	
+26.333	26.766			arms: apart, left;	
+26.767	27.0			arms: into contact, left;	
+27.0	27.3			arms: apart, left;	
+27.3	28.033			arms: into contact, left; hands: claw; back;	
+28.033	28.666			arms: into gap, left;	
+28.667	29.133			arms: move, back;	
+29.133	29.9			arms: move, down;	
+29.9	32.262			Unknown	
+32.262	33.195			RA: move, up; RH: into four, front;	
+33.2	34.029			RH: into three;	
+34.029	35.095			RA: move, down;	
+35.095	38.495			Unknown	
+38.495	39.795			body: still;	
+39.795	40.628			arms: move, up;	
+40.633	41.295			arms: move, down;	
+41.295	42.962			body: move, down;	
+42.962	45.995			Unknown	
+45.995	47.062			arms: move, up, into contact, left; hands: into claw, front;	
+47.067	47.762			arms: apart, left;	
+47.762	48.595			arms: move, down;	
+48.595	49.095			arms: move, up;	
+49.1	50.0			LA: move, right; LH: into closed, right;	
+50.0	50.7			LA: move, left;	
+50.7	50.895			LA: move, down;	
+50.895	51.528			RA: move, front; RH: into open, down;	
+51.533	51.929			RA: move, left;	
+51.929	52.529			RA: move, up;	
+52.533	53.029			RA: move, down;	
+53.029	54.329			RA: move, up; RH: into four, front;	
+54.333	55.966			RH: into three;	
+55.967	56.767			RA: move, up; RH: into two;	
+56.767	57.133			RH: into one;	
+57.133	57.662			RA: move, down;	
+57.662	59.229			Unknown	
+59.229	67.629			body: still;	
+67.629	68.396			Unknown	
+68.4	68.967			arms: move, up; hands: into thumbs, up;	
+68.967	69.317			arms: move, down;	
+0.6	    1.967				(i / icon-GA   :ARG0 (s / signaler)   :ARG1 4   :ARG2 (a / actor))
+4.433	7.567				(i / icon-GA   :mode expressive   :ARG0 (s / signaler)   :ARG1 (c / curve)   :ARG2 (a / actor))
+9.433	11.967				(i / icon-GA   :mode expressive   :ARG0 (s / signaler)   :ARG1 (c / curve)   :ARG2 (a / actor))
+19.0	20.8				(i / icon-GA   :ARG0 (s / signaler)   :ARG1 4   :ARG2 (a / actor))
+24.3	27.3				(i / icon-GA   :mode expressive   :ARG0 (s / signaler)   :ARG1 (c / curve)   :ARG2 (a / actor))
+28.667	29.133				(i / icon-GA   :ARG0 (s / signaler)   :ARG1 (b / backward)   :ARG2 (a / actor))
+33.2	34.033				(i / icon-GA   :ARG0 (s / signaler)   :ARG1 3   :ARG2 (a / actor))
+39.8	41.3				(i / icon-GA   :ARG0 (s / signaler)   :ARG1 (t / tower)   :ARG2 (a / actor))
+46.0	47.767				(a / and   :op1 (g / gesture-unit          :op1 (d / deixis-GA                 :ARG0 (s / signaler)                 :ARG1 (l / location)                 :ARG2 (a2 / actor))          :op2 (i / icon-GA                 :ARG0 s                 :ARG1 (p / put-01)                 :ARG2 a2))   :op2 (g2 / gesture-unit          :op1 (d2 / deixis-GA                 :ARG0 s                 :ARG1 (l2 / location)                 :ARG2 a2)          :op2 (i2 / icon-GA                 :ARG0 s                 :ARG1 (p2 / put-01)                 :ARG2 a2)))
+48.6	50.9				(i / icon-GA   :ARG0 (s / signaler)   :ARG1 (s2 / stack-01)   :ARG2 (a / actor))
+50.9	53.033				(i / icon-GA   :ARG0 (s / signaler)   :ARG1 (s2 / stack-01)   :ARG2 (a / actor))
+53.033	54.333				(i / icon-GA   :ARG0 (s / signaler)   :ARG1 4   :ARG2 (a / actor))
+54.333	55.966				(i / icon-GA   :ARG0 (s / signaler)   :ARG1 3   :ARG2 (a / actor))
+55.967	56.767				(i / icon-GA   :ARG0 (s / signaler)   :ARG1 2   :ARG2 (a / actor))
+56.767	57.133				(i / icon-GA   :ARG0 (s / signaler)   :ARG1 1   :ARG2 (a / actor))
+68.4	69.317				(e / emblem-GA   :ARG0 (s / signaler)   :ARG1 (y / yes)   :ARG2 (a / actor))

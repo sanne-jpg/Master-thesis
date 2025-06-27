@@ -1,0 +1,186 @@
+Begin Time - ss.msec	End Time - ss.msec	Speech	Speech AMR	Gesture - Label	Gesture AMR
+1.09	1.39	okay			
+1.43	1.57	put			
+1.65	1.73	one			
+1.79	2.09	block			
+2.09	2.49	wherever			
+2.51	2.65	you			
+2.69	3.43	want			
+3.51	3.59	on			
+3.61	3.67	the			
+3.77	4.23	center			
+4.23	4.33	in			
+4.35	4.43	the			
+4.47	4.69	center			
+4.77	4.85	i			
+4.89	6.31	think			
+6.61	7.03	and			
+7.09	7.29	uh			
+7.39	7.55	one			
+7.63	8.81	block			
+8.81	9.99	uh			
+10.51	10.71	ahead			
+10.77	10.89	of			
+10.93	11.29	it			
+11.35	11.57	ahead			
+11.63	11.75	of			
+11.81	12.67	it			
+12.77	12.87	yeah			
+12.91	13.65	great			
+13.73	13.81	and			
+13.97	14.07	one			
+14.13	14.67	block			
+14.73	15.01	left			
+15.09	15.25	of			
+15.29	15.75	the			
+15.83	16.07	first			
+16.13	17.87	block			
+17.93	18.17	first			
+18.23	18.61	block			
+18.69	18.87	and			
+18.95	19.01	a			
+19.05	19.83	bit			
+19.83	20.01	in			
+20.01	20.19	front			
+20.25	20.33	of			
+20.39	21.51	it			
+21.59	21.83	move			
+21.91	22.15	forward			
+22.23	22.31	a			
+22.33	24.95	bit			
+25.05	25.45	yes			
+25.59	26.27	and			
+26.37	26.51	one			
+26.57	27.47	block			
+27.59	27.94	on			
+27.94	29.01	the			
+29.19	29.37	right			
+29.43	29.59	side			
+29.63	29.75	of			
+29.77	29.89	the			
+29.93	30.19	first			
+30.27	30.78	block			
+30.78	31.29	and			
+31.35	31.71	move			
+31.71	31.81	back			
+31.87	31.97	a			
+32.03	33.61	bit			
+33.67	33.91	first			
+33.97	36.91	block			
+36.91	37.11	the			
+37.13	37.33	first			
+37.37	37.57	block			
+37.61	37.79	you			
+37.83	37.99	put			
+38.05	38.27	it			
+38.61	39.01	the			
+39.13	39.33	one			
+39.33	41.57	nearest			
+41.57	41.77	and			
+41.77	41.97	the			
+42.01	42.21	right			
+42.23	42.39	side			
+42.45	42.53	of			
+42.59	43.79	it			
+43.93	44.01	put			
+44.15	44.23	a			
+44.25	44.61	bit			
+44.67	44.87	a			
+44.87	45.07	bit			
+45.07	47.07	right			
+47.07	47.75	uh			
+47.75	49.75	more			
+49.75	50.53	great			
+50.53	50.83	and			
+50.83	51.05	one			
+51.13	52.69	block			
+52.71	52.85	pick			
+52.89	52.99	up			
+53.07	53.17	one			
+53.21	53.41	block			
+53.41	53.95	and			
+53.95	54.05	it			
+54.05	54.45	is			
+54.45	54.75	in			
+54.75	54.95	front			
+55.01	55.15	of			
+55.19	55.35	the			
+55.43	55.79	block			
+55.83	55.95	you			
+55.97	56.23	just			
+56.29	56.43	put			
+56.49	56.61	it			
+56.69	56.77	and			
+56.89	57.27	rotate			
+57.33	57.75	it			
+57.79	58.07	forty			
+58.09	58.29	five			
+58.31	58.63	degrees			
+59.31	59.41	yes			
+1.09	1.39		(o / okay-04)		
+1.43	3.43		(p / put-01   :mode imperative   :ARG0 (y / you)   :ARG1 (b / block           :quant 1)   :ARG2 (w / wherever           :ARG1-of (w2 / want-01                      :ARG0 y)))		
+4.23	6.31		(t / think-01   :ARG0 (i / i)   :ARG1 (i2 / in           :op1 (c / center)))		
+6.61	11.29		(a / and   :op2 (b / block          :quant 1          :ARG1-of (a2 / ahead-01                     :ARG2 (i / it))))		
+12.77	12.87		(y / yeah)		
+12.91	13.65		(g / great-01)		
+13.73	21.51		(a / and   :op2 (b / block          :quant 1          :ARG1-of (l / left-20                     :ARG2 (b2 / block                             :ord (o / ordinal-entity                                    :value 1)))          :ARG1-of (f / front-01                     :ARG2 b2                     :degree (b3 / bit))))		
+21.59	24.95		(m / move-01   :mode imperative   :ARG0 (y / you)   :direction (f / forward                :degree (b / bit)))		
+25.05	25.45		(y / yes)		
+25.59	33.61		(a / and   :op2 (b / block          :quant 1          :location (o / on                      :op1 (s / side                             :ARG1-of (r / right-04)                             :poss (b2 / block                                     :ord (o2 / ordinal-entity                                            :value 1)))))   :op3 (m / move-01          :mode imperative          :ARG0 (y / you)          :direction (b3 / back                       :degree (b4 / bit))))		
+33.67	36.91		(b / block   :ord (o / ordinal-entity          :value 1))		
+36.91	43.79		(a / and   :op1 (b / block          :ord (o / ordinal-entity                 :value 1)          :ARG1-of (p / put-01                     :ARG0 (y / you))          :ARG1-of (h / have-degree-91                     :ARG2 (n / near-02)                     :ARG3 (m / most)))   :op2 (s / side          :ARG1-of (r / right-04)          :poss b))		
+43.93	47.07		(p / put-01   :mode imperative   :ARG0 (y / you)   :ARG2 (r / right-04           :degree (b / bit)))		
+47.75	49.75		(m / more)		
+49.75	50.53		(g / great)		
+50.53	58.63		(a / and   :op2 (p / pick-up-04          :mode imperative          :ARG0 (y / you)          :ARG1 (b / block                  :quant 1))   :op3 (f / front-02          :ARG1 b          :ARG2 (b2 / block                  :ARG1-of (p2 / put-01                             :ARG0 y                             :time (j / just))))   :op4 (r / rotate-01          :mode imperative          :ARG0 y          :ARG1 b          :extent (a2 / angle-quantity                    :quant 45                    :unit (d / degree))))		
+59.31	59.41		(y / yes)		
+0.0	    0.912			Unknown	
+0.912	2.045			arms: move, up front, into gap, left; hands: facing, closed;	
+2.045	4.028			arms: move, down; hands: into claw, down;	
+4.033	8.312			body: still;	
+8.312	9.779			arms: move, up front; hands: into facing, closed;	
+9.783	11.045			hands: beckon;	
+11.045	12.345			arms: move, down; hands: facing, closed;	
+12.345	14.045			body: still;	
+14.045	15.079			arms: move, up; hands: facing, closed;	
+15.079	16.446			Unknown	
+16.45	17.479			body: still;	
+17.479	18.912			Unknown	
+18.912	20.879			hands: beckon;	
+20.879	22.879			Unknown	
+22.879	24.445			body: still;	
+24.445	26.112			Unknown	
+26.112	27.579			Rh: into fist, back;	
+27.579	29.279			body: still;	
+29.279	30.779			Unknown	
+30.779	31.329			hands: into facing, left;	
+31.333	32.179			arms: beckon;	
+32.179	33.045			body: still;	
+33.045	35.479			Unknown	
+35.479	36.579			body: still;	
+36.579	42.779			Unknown	
+42.779	43.562			body: still;	
+43.567	44.145			Unknown	
+44.145	45.545			arms: move, right;	
+45.545	46.845			body: still;	
+46.845	48.545			hands: shake, left;	
+48.545	49.545			Unknown	
+49.545	50.712			hands: into fist, down;	
+50.712	52.245			Unknown	
+52.245	53.095			hands: into facing, left;	
+53.1	54.045			LA: move, to face;	
+54.045	54.879			LA: move, down; RH: into fist, back;	
+54.879	58.879			Unknown	
+58.879	59.845			arms: move, down back; hands: into claw, down;	
+59.845	61.079			body: move, back;	
+61.079	63.167			body: still;	
+0.917	2.49				(i / icon-GA   :ARG0 (s / signaler)   :ARG1 (p / put-01)   :ARG2 (a / actor))
+9.783	11.05				(i / icon-GA   :ARG0 (s / signaler)   :ARG1 (s2 / slide-01           :direction (b / backward))   :ARG2 (a / actor))
+18.917	20.883				(i / icon-GA   :mode expressive   :ARG0 (s / signaler)   :ARG1 (s2 / slide-01           :direction (f / forward))   :ARG2 (a / actor))
+20.883	22.883				(i / icon-GA   :ARG0 (s / signaler)   :ARG1 (s2 / slide-01           :direction (f / forward))   :ARG2 (a / actor))
+30.783	32.183				(i / icon-GA   :ARG0 (s / signaler)   :ARG1 (s2 / slide-01           :direction (b / backward))   :ARG2 (a / actor))
+37.917	39.95				(i / icon-GA   :ARG0 (s / signaler)   :ARG1 (p / put-01)   :ARG2 (a / actor))
+41.417	42.783				(i / icon-GA   :ARG0 (s / signaler)   :ARG1 (s2 / slide-01           :direction (r / right))   :ARG2 (a / actor))
+43.567	45.55				(i / icon-GA   :ARG0 (s / signaler)   :ARG1 (s2 / slide-01           :direction (r / right))   :ARG2 (a / actor))
+46.85	48.55				(i / icon-GA   :mode expressive   :ARG0 (s / signaler)   :ARG1 (s2 / slide-01           :direction (r / right))   :ARG2 (a / actor))
+52.25	54.05				(i / icon-GA   :ARG0 (s / signaler)   :ARG1 (p / pick-up-04)   :ARG2 (a / actor))

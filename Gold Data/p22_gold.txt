@@ -1,0 +1,194 @@
+Begin Time - ss.msec	End Time - ss.msec	Speech	Speech AMR	Gesture - Label	Gesture AMR
+1.05	1.43	okay			
+1.45	1.61	this			
+1.69	1.97	one's			
+2.03	2.39	somewhat			
+2.43	2.73	similar			
+2.79	2.91	to			
+2.95	3.01	the			
+3.09	3.35	last			
+3.47	3.65	one			
+3.79	4.21	except			
+4.35	5.67	it's			
+5.81	6.01	a			
+6.09	7.57	four			
+7.61	7.85	four			
+7.93	8.65	layers			
+8.77	8.87	and			
+8.99	9.05	the			
+9.09	9.35	bottom			
+9.41	9.71	layer			
+9.81	10.25	starts			
+10.31	10.41	with			
+10.41	10.51	four			
+10.57	14.37	blocks			
+14.41	14.57	but			
+14.63	14.81	this			
+14.85	14.97	time			
+15.05	15.25	they're			
+15.31	15.77	not			
+15.79	15.97	they're			
+16.01	16.11	not			
+16.17	16.49	touching			
+16.53	17.07	corners			
+17.13	17.35	quite			
+17.41	17.49	the			
+17.53	17.69	same			
+17.75	17.83	way			
+17.95	18.11	they're			
+18.15	18.29	more			
+18.43	18.63	laid			
+18.69	18.83	out			
+18.91	19.01	in			
+19.11	19.19	a			
+19.25	19.65	flower			
+19.71	20.73	pattern			
+20.77	20.99	like			
+21.03	21.13	so			
+21.15	22.87	they're			
+22.87	24.59	kind 			
+24.59	26.31	of			
+26.31	28.03	splayed			
+28.03	29.75	yeah			
+29.75	29.83	something			
+29.83	29.97	like			
+30.03	30.73	that			
+31.23	31.31	so			
+31.35	31.57	those			
+31.63	31.85	those			
+31.89	31.99	two			
+32.03	32.11	on			
+32.13	32.25	the			
+32.29	32.49	right			
+32.55	32.83	were			
+32.87	33.05	were			
+33.09	33.31	about			
+33.33	36.63	correct			
+36.89	37.05	then			
+37.09	37.23	the			
+37.25	37.47	gap			
+37.51	37.75	should			
+37.81	38.33	be			
+38.39	38.43	a			
+38.47	38.73	little			
+38.77	38.93	less			
+38.97	39.03	of			
+39.05	39.29	between			
+39.33	39.43	him			
+39.45	39.57	so			
+39.59	39.65	you			
+39.69	39.79	could			
+39.85	40.07	squeeze			
+40.09	40.25	them			
+40.27	40.61	together			
+40.65	40.67	a			
+40.71	40.89	little			
+40.91	41.13	bit			
+41.17	41.27	there			
+41.27	41.37	you			
+41.43	44.39	go			
+44.51	44.95	yeah			
+44.97	45.15	that's			
+45.21	45.43	about			
+45.49	45.75	right			
+45.83	45.89	and			
+45.93	46.11	then			
+46.15	46.29	the			
+46.35	46.79	next			
+46.95	47.21	row			
+47.31	47.57	is			
+47.57	47.79	just			
+47.79	48.13	three			
+48.21	48.31	on			
+48.35	48.51	top			
+48.57	48.67	of			
+48.73	49.15	that			
+49.21	49.29	in			
+49.33	49.39	the			
+49.43	50.09	middle			
+50.15	50.21	of			
+50.25	50.51	those			
+50.59	57.83	gaps			
+58.05	58.13	and			
+58.15	58.27	then			
+58.31	58.45	two			
+58.51	58.65	on			
+58.67	58.83	top			
+58.89	58.99	of			
+59.05	63.53	that			
+63.63	63.83	and			
+63.93	64.01	one			
+64.09	64.23	on			
+64.27	66.79	top			
+66.83	70.81	very			
+70.85	71.65	nice			
+71.71	71.77	you			
+71.77	71.83	got 			
+71.83	71.89	it			
+1.04	8.65		(s / similar-01 	 	:ARG0 (o / one 	 		:mod (t / this)) 	 	:ARG1 o 	 		:mod (l / last) 	 	:ARG2 (l2 / layers 	 	 	:quant 4))		
+8.84	12.16		(s / starts-01 	:ARG0 (l / layer  		:ARG0-of (b / bottom)) 			:instrument (b2 / blocks 				:quant 4))		
+14.42	17.81		(t / touch-01  		:ARG0 (t2 / they)  		:ARG1 (c / corners)  			:mod (w / way  			:mod (s / same  			:degree (q / quite)))  		 :polarity -)		
+17.845	20.725		(l / lay-out-01  		:ARG0 (t / they) 			:mod (m / more) 			:mod (p / pattern  			:mod (f / flower)))		
+21.168	28.048		(s / splay-01  		:ARG0 (t / they) 		:mod (k / kind-of))		
+29.738	30.738		(l / like 	 	:ARG0 (s / something) 	 	:ARG1 (t / that))		
+32.122	36.622		(c / correct-01 		:ARG0 (t / those 			:quant 2 			:location (r / right)))		
+36.852	39.432		(b / be-03 	 	:ARG0 (g / gap) 	 		:degree (l / less 	 		:mod (l2 / little)) 	 		:mod (b2 / between 	 	:ARG1 (t / them)))		
+39.442	42.792		(s / squeeze-01  :mode imperative  		:ARG0 (y / you) 		:ARG1 (t / them) 		:direction (t2 / together  			:mod (l / little)))		
+45.92	51.5		(b / be-01 	 	:ARG0 (r / row 	 		:mod (n / next)) 	  	:ARG1 (t / three 	   		:location (t2 / top  	   			:location (g / gap) 	   				:mod (m / middle))))		
+58.115	60.085		(o / on-01 	 	:ARG0 (t / two) 	 	:ARG1 (t2 / top 	 		:mod (t3 / that)))		
+63.64	64.85		(o / on-01  		:ARG0 (o / one 		:ARG1 (t / top)))		
+0.0	    1.042			Unknown	
+1.042	2.808			arms: move, down; hands: into fist, back;	
+2.808	3.467			body: move, down;	
+3.467	6.2			    body: still;	
+6.208	7.067			LA: move, up; LH: into open, down; RH: into open, up;	
+7.067	7.442			LA: move, up;	
+7.442	8.642			LA: move, down; hands: into fist, down;	
+8.642	9.875			arms: move, front; hands: into open, down;	
+9.875	10.608			arms: apart, left;	
+10.608	13.308			Unknown	
+13.308	15.008			body: move, front;	
+15.008	15.908			RH: into fist;	
+15.908	17.375			arms: into gap, left;	
+17.375	18.525			arms: into contact, left; hands: into closed;	
+18.533	20.166			arms: apart, left; hands: claw, down;	
+20.167	20.942			arms: into contact, left;	
+20.942	22.675			arms: apart, left;	
+22.675	23.225			hands: into fist;	
+23.233	23.9			body: move, down;	
+23.908	25.675			Unknown	
+25.675	27.175			arms: into gap, left;	
+27.183	32.142			body: still;	
+32.142	33.375			LA: move, up; LH: into open, down;	
+33.375	34.108			LA: move, down;	
+34.108	35.042			body: still;	
+35.042	36.342			Unknown	
+36.342	38.108			arms: move, up; hands: facing, into gap, left;	
+38.108	39.708			Unknown	
+39.708	41.208			arms: shake, left; hands: closed;	
+41.208	42.808			arms: move, down; RH: into fist, down;	
+42.808	44.175			LA: move, down;	
+44.175	46.708			Unknown	
+46.708	47.975			arms: move, up; hands: facing, into gap, open;	
+47.975	49.192			LA: move, down; RA: move, up; RH: to face	
+49.2	50.175			RA: move, down;	
+50.175	55.908			body: still;	
+55.908	57.508			head: rotate;	
+57.508	58.742			body: still;	
+58.742	60.675			body: move, up; arms: rotate;	
+60.675	63.542			head: rotate;	
+63.542	64.908			body: still;	
+64.908	66.175			arms: rotate;	
+66.175	67.142			Unknown	
+67.142	68.342			body: move, front;	
+68.342	69.742			body: move, back;	
+69.742	71.208			head: rotate;	
+71.208	72.825			head: nod; body: move, up; arms: move, back;	
+7.45	8.66				(i / icon-GA  	:ARG0 (s / signaler)  	:ARG1 (l / layers)  	:ARG2 (a / actor))
+9.595	11.355				(g / gesture-unit 	 	:op1 (i / icon-GA 	 	:ARG0 (s / signaler) 	 	:ARG1 (b / bottom) 	 	:ARG2 (a / actor))  	:op2 i  		:ARG0 s  		:ARG1 (l / layer)  		:ARG2 a))
+18.545	20.175				(i / icon-GA 	 	:ARG0 (s / signaler) 	 	:ARG1 (p / pattern 	 		:mod (f / flower)) 	 	:ARG2 (a / actor))
+20.945	23.235				(i / icon-GA 	:ARG0 (s / signaler) 	:ARG1 (s2 / splayed)  	:ARG2 (a / actor))
+32.166	34.106				(i / icon-GA  	:ARG0 (s / signaler)   	:ARG1 (b / block) 	  	:ARG2 (a / actor)) 
+37.526	39.03				(i / icon-GA 	:ARG0 (s / signaler) 	:ARG1 (l / less) 	:ARG2 (a / actor))
+39.041	41.211				(i / icon-GA 	 	:ARG0 (s / signaler)  	:ARG1 (s2 / squeeze 		:direction (t / together)) 	:ARG2 (a / actor))
+46.695	49.195				(g / gesture-unit 	 	:op1 (i / icon-GA 		:ARG0 (s / signaler) 		:ARG1 (b / block) 		:ARG2 (a / actor))  	:op2 i  		:ARG0 s   		:ARG1 (t / top)  		:ARG2 a)
