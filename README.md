@@ -27,8 +27,7 @@ Uploaded files:
 	• count error types in the refined prompt  
 • evaluation  
 	• calculate BLEU, METEOR and BERTScore over the whole dataset, as well as for all separate conditions  
-	• paired bootstrap resampling to check whether results  
-	  are significant and not due to chance  
+	• paired bootstrap resampling to check whether results are significant and not due to chance  
 	• calculate Smatch score over the generated speechh AMRs  
 
 In order to run your Llama model you need to create a virtual environment and install:  
