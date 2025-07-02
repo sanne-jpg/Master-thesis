@@ -3,7 +3,7 @@ Repository for my Language &amp; AI master thesis
 
 Uploaded files:  
 • create_dataset  
-	- extracts data from the gold files to create SAGE-AMR  
+&nbsp;&nbsp;- extracts data from the gold files to create SAGE-AMR  
 • process_data.py  
 	- includes functions to:  
 		merge speech and gesture AMR  
